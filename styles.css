@@ -1,0 +1,26 @@
+.calculator {
+    padding: 10px;
+    height: 380px;
+    width: 400px;
+    background-color: #3d3a4b;
+}
+
+.display-box {
+    font-family: sans-serif;
+    background-color: #dcdbe1;
+    color: black;
+    width: 100%;
+    height: 65%;
+}
+
+#btn {
+    background-color: #393468;
+}
+
+input[type=button] {
+    font-family: sans-serif;
+    background-color: #64278f;
+    color: white;
+    width: 100%;
+    height: 70%;
+}
